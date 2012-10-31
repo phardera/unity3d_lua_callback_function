@@ -1,0 +1,6 @@
+
+function dispResult(num)
+   msg(num)
+end
+
+tellMeNum(dispResult)
